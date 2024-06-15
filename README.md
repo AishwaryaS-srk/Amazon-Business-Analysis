@@ -1,4 +1,4 @@
-# Amazon Sales Data Analysis
+# Amazon Business Analysis
 
 This repository contains a Power BI report analyzing Amazon sales data across different regions, product categories, and other relevant metrics. The analysis focuses on total revenue, total profit, units sold, and sales distribution by region and product type.
 
